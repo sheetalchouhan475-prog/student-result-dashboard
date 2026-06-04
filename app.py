@@ -74,4 +74,4 @@ if uploaded_files:
 
     st.subheader("Student Records")
 
-    st.dataframe(subject_df)
+    st.write(subject_df)
